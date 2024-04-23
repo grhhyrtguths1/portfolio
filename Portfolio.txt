@@ -1,0 +1,20 @@
+Missile Command
+Retro, Arcade Game
+
+A recreation of the 1980s game Missile Command
+You must protect your city from a barrage of missiles in order to advance to reach the highest score!
+This main mechanic of this game is to intercept as many missiles as possible with the mouse and arrow keys, be resourceful with your ammo!
+https://grhhyrtguths.itch.io/missile-command
+
+C4D:
+A few projects I made by myself in order to learn the fundamentals of 3D animation in Cinema4D.
+The projects I made include some very basic modeling and texturing.
+
+
+Add link to itch
+Add video
+Add c4d part
+Finish writing about me
+Add linkedin link
+Maybe add tags
+
